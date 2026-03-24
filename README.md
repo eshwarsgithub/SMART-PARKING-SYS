@@ -1,4 +1,4 @@
-# SafePark — Smart City Parking System
+# SafePark — Smart City Parking System 
 
 A full-stack real-time parking management platform built for smart cities. Find, reserve, and manage parking spots with live availability updates, an interactive dark map, and a seamless booking experience.
 
